@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik A K (karthiqak47)
 
-🎓 2nd-year Electronics & Communication Engineering student at **[Your University]**  
+🎓 3rd-year Electronics & Communication Engineering student at **[Your University]**  
 💡 Passionate about **VLSI design**, **Digital Systems**, **Embedded Systems**, and **Machine Learning**
 
 ---
@@ -26,12 +26,7 @@
 ##  Resume Highlights
 
 - **Skills**: Verilog, Python, C++, Machine Learning, Digital Design, FPGA workflows, Signal Processing, LLMs  
-- **Awards**:  
-  - *(E.g.)* 🏆 Winner, TinkerHub Hackathon 2024 (if applicable)  
-  - *(E.g.)* Best Undergraduate Project, [Your College] Annual Tech Fest 2025  
-- **Experience**:  
-  - Interned at **[Company / Lab Name]** working on [brief description: e.g., sonar signal processing or FPGA implementation].  
-  - Member of **[College Club / Team]**, designed [e.g., assistive tech for cerebral palsy, embedded devices].
+
 
 ---
 
