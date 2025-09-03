@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**karthiqak47/karthiqak47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Karthik A K (karthiqak47)
 
 🎓 2nd-year Electronics & Communication Engineering student at **[Your University]**  
@@ -52,4 +47,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikak41)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
