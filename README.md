@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthik A K (karthiqak47)
 
 🎓 3rd-year Electronics & Communication Engineering student at **[Your University]**  
-💡 Passionate about **VLSI design**, **Digital Systems**, **Embedded Systems**, and **Machine Learning**
+💡 Passionate about **VLSI design**, **Digital Systems**, **Analog Design**, and **Machine Learning**
 
 ---
 
