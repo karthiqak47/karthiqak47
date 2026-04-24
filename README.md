@@ -1,26 +1,34 @@
-# Karthik A K
+# karthik a k `karthiqak47`
 
-3rd-year ECE student. Building things at the intersection of hardware and ML.
-
-**Skills** — Verilog · Python · C++ · FPGA · Signal Processing · LLMs
+> 3rd-year ECE · VLSI · Digital Systems · ML
 
 ---
 
-## Projects
-
-**Beamformed-DeepNeural-Network** — Passive sonar detection using beamformed deep learning (IEEE 2025)  
-**RISC-V-RV32I** — Single-cycle RV32I processor in Verilog  
-**Alt-text-generator** — ViT + GPT-2 web app for automated image alt-text  
-**StrideComp** — Low-power C++ geofencing app for neuro-divergent children  
-**Symptom_classifier** — LangGraph-based symptom classification using LLM flows  
-**Gemini-API-test** — Interactive tweet generator via Gemini-Pro
+### stack
+`Verilog` `FPGA` `Digital Design` `Signal Processing` `Python` `ML / Deep Learning` `LangGraph` `C++` `LLMs`
 
 ---
 
-## Currently learning
+### projects
 
-Advanced FPGA acceleration · Deep learning for low-SNR sonar · Lightweight NNs for constrained environments
+| project | what |
+|---|---|
+| **Beamformed-DeepNeural-Network** | Deep learning for passive sonar · IEEE 2025 |
+| **RISC-V-RV32I** | Single-cycle RV32I processor · Verilog |
+| **Alt-text-generator** | ViT + GPT-2 image alt-text web app |
+| **StrideComp** | Low-power geofencing for neuro-divergent kids · C++ |
+| **Symptom_classifier** | LangGraph + LLM classification pipeline |
+| **Gemini-API-test** | Gemini-Pro tweet generator · Jupyter |
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/karthikak41) · [Email](mailto:youremail@example.com)
+### currently loading
+```
+FPGA acceleration    ████████████████░░░░░  70%
+DL for sonar         ████████████░░░░░░░░░  55%
+Low-SNR neural nets  ████████░░░░░░░░░░░░░  40%
+```
+
+---
+
+[linkedin](https://www.linkedin.com/in/karthikak41) · [github](https://github.com/karthiqak47)
