@@ -1,44 +1,31 @@
-# 👋 Hi, I'm Karthik A K (karthiqak47)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Karthik%20A%20K&fontSize=56&animation=fadeIn&theme=tokyonight" width="100%" />
+</div>
 
-🎓 3rd-year Electronics & Communication Engineering student at **[Your University]**  
-💡 Passionate about **VLSI design**, **Digital Systems**, **Analog Design**, and **Machine Learning**
+<div align="center">
+  
+  ✨ **Electronics & Communication Engineering Student** ✨
+  
+  🚀 Passionate about hardware-software co-design, VLSI, and intelligent systems.
+  
+  `Senior Undergraduate` • `Hardware Enthusiast` • `AI Explorer`
 
----
+  <p align="center">
+    <a href="https://linkedin.com/in/karthikak41"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 
-##  Current Projects
-
-- **Beamformed-DeepNeural-Network** – Python implementation of beamformed deep-learning for sonar detection, inspired by an IEEE 2025 publication.  
-- **RISC-V-RV32I** – Verilog-based single-cycle 32-bit RISC-V processor (RV32I).  
-- **Alt-text-generator** – Web app using ViT + GPT-2 for automated image alt-text generation.  
-- **Gemini-API-test** – Jupyter-based interactive tweet generator using Google’s Gemini-Pro AI.  
-- **Symptom_classifier** – Python symptom classification tool using LangGraph and LLM flows.  
-- **StrideComp** – C++ geofencing app tuned for neuro-divergent children, focusing on low power and small footprint.
-
----
-
-##  GitHub Stats
-
-![Karthik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiqak47&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiqak47&layout=compact&theme=tokyonight)
+  ![](https://komarev.com/normal-see-auth/?username=karthiqak47&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+</div>
 
 ---
 
-##  Resume Highlights
+## 🛰️ About Me
 
-- **Skills**: Verilog, Python, C++, Machine Learning, Digital Design, FPGA workflows, Signal Processing, LLMs  
-
-
----
-
-##  What I’m Learning
-
-- Advanced Verilog & FPGA acceleration workflows  
-- Deep learning for passive sonar & signal processing  
-- Lightweight neural networks for low SNR and constrained environments
-
----
-
-##  Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikak41)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+```vlog
+module Karthik (
+    input wire clk,
+    input wire learning_en,
+    output reg [3:0] current_focus
+);
+// Always pushing the boundaries of Silicon and Intelligence.
