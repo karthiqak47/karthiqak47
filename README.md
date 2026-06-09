@@ -11,7 +11,7 @@ Third-year ECE Student passionate about bridging the gap between Silicon and Int
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=1a1b26)](https://www.linkedin.com/in/karthikak41)
-[![Email](https://img.shields.io/badge/-Email-7DCFFF?style=flat-square&logo=gmail&logoColor=1a1b26)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-7DCFFF?style=flat-square&logo=gmail&logoColor=1a1b26)](mailto:karthikakaakash@gmail.com)
 
 
 </div>
