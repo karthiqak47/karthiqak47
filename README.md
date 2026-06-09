@@ -6,13 +6,13 @@
 
 Third-year ECE Student passionate about bridging the gap between Silicon and Intelligence.
 
-[`Portfolio Coming Soon`]() • [`Read My Resume`]()
+
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-7AA2F7?style=flat-square&logo=linkedin&logoColor=1a1b26)](https://www.linkedin.com/in/karthikak41)
 [![Email](https://img.shields.io/badge/-Email-7DCFFF?style=flat-square&logo=gmail&logoColor=1a1b26)](mailto:youremail@example.com)
-![Views](https://komarev.com/normal-see-auth/?username=karthiqak47&color=b4f9f8&style=flat-square&label=VIEWS)
+
 
 </div>
 
